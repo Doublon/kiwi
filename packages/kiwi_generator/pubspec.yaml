@@ -17,7 +17,7 @@ dependencies:
   dart_style: '>=2.3.7 <4.0.0'
   kiwi:
     git:
-      url: git@github.com:Doublon/kiwi.git
+      url: https://github.com/Doublon/kiwi.git
       path: packages/kiwi
       ref: temp
   path: ^1.8.3
