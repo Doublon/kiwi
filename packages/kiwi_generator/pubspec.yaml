@@ -15,7 +15,7 @@ dependencies:
   built_collection: ^5.1.1
   code_builder: ^4.10.0
   dart_style: '>=2.3.7 <4.0.0'
-  kiwi_generator:
+  kiwi:
     git:
       url: git@github.com:Doublon/kiwi.git
       path: packages/kiwi
