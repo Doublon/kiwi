@@ -19,6 +19,7 @@ dependencies:
     git:
       url: git@github.com:Doublon/kiwi.git
       path: packages/kiwi
+      ref: temp
   path: ^1.8.3
   source_gen: '>=3.0.0 <5.0.0'
 
